@@ -1,0 +1,3 @@
+Appium-Python-CLient~=2.9.0
+selenium~=4.8.3
+pytest~=7.3.0
