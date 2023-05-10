@@ -39,6 +39,7 @@ class Hattrickgames:
     logo_id = "com.subagent.hattrickkgames:id/txtUser"
     walletamount_id = "com.subagent.hattrickkgames:id/txt_wallet"
     exposure_xpath = "//androidx.recyclerview.widget.RecyclerView[@resource-id='com.subagent.hattrickkgames:id/rv_wallet']/android.widget.LinearLayout[2]//android.widget.TextView[@resource-id='com.subagent.hattrickkgames:id/txt_amount']"
+    bonus_xpath = "//androidx.recyclerview.widget.RecyclerView[@resource-id='com.subagent.hattrickkgames:id/rv_wallet']/android.widget.LinearLayout[3]//android.widget.TextView[@resource-id='com.subagent.hattrickkgames:id/txt_amount']"
     deposit_id = "com.subagent.hattrickkgames:id/btn_deposit"
     setting_id = "com.subagent.hattrickkgames:id/iv_mode"
     switch_id = "com.subagent.hattrickkgames:id/switch_mode"
@@ -61,6 +62,11 @@ class Hattrickgames:
     rp_pl_xpath = "//androidx.cardview.widget.CardView[@resource-id='com.subagent.hattrickkgames:id/layout_main'][1]/android.widget.LinearLayout/android.widget.LinearLayout[1]/androidx.appcompat.widget.LinearLayoutCompat[3]//android.widget.TextView[3]"
     rp_bettype_xpath = "//androidx.cardview.widget.CardView[@resource-id='com.subagent.hattrickkgames:id/layout_main'][1]/android.widget.LinearLayout/android.widget.LinearLayout[1]/androidx.appcompat.widget.LinearLayoutCompat[1]//android.widget.TextView[2]"
     cricketmatches_xpath = "//android.widget.HorizontalScrollView[@resource-id='com.subagent.hattrickkgames:id/sportTab']/android.widget.LinearLayout/android.widget.LinearLayout[2]//android.widget.TextView[@resource-id='com.subagent.hattrickkgames:id/txt_total_sports']"
+    drawer_xpath = '//android.widget.ImageButton[@content-desc="Open navigation drawer"]'
+    drawerlive_id = "com.subagent.hattrickkgames:id/txt_live_events"
+    drawerupcoming_xpath = "com.subagent.hattrickkgames:id/txt_upcoming"
+    inplay_xpath = "//android.widget.TextView[@text='In-Play']"
+    livematchlist = "//android.widget.RelativeLayout[@resource-id='com.subagent.hattrickkgames:id/llHeader']"
 
     def __init__(self, driver):
         self.driver = driver
