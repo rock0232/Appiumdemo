@@ -11,7 +11,7 @@ def setup():
     # cap["appium:deviceName"] = "7916a41" # MI
     cap["appium:appPackage"] = "com.subagent.run567"
     cap["appium:appWaitActivity"] = "com.subagent.run567.common.intro.IntroActivity"
-    cap["appium:app"] = "C:\\Users\\KEY\\Downloads\\Run567_v1.apk"
+    cap["appium:app"] = "C:\\Users\\KEY\\Downloads\\Run567_v2.apk"
     cap["appium:ensureWebviewsHavePages"] = True
     cap["appium:nativeWebScreenshot"] = True
     cap["appium:newCommandTimeout"] = 3600
@@ -23,8 +23,8 @@ def setup():
     driver = webdriver.Remote("http://localhost:4723/wd/hub", cap)
     driver.implicitly_wait(10)
     yield driver
-    # driver.quit()
-
+    driver.quit()
+()
 def pytest_html_report_title(report):
     report.title = "Test Result Report"
 

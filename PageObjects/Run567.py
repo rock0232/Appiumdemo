@@ -29,7 +29,8 @@ class Run567:
     this_permission_id = "com.android.permissioncontroller:id/permission_allow_one_time_button"
     deny_permission_id = "com.android.permissioncontroller:id/permission_deny_button"
     manualmatches_xpath = "//android.widget.RelativeLayout[@resource-id='com.subagent.run567:id/llHeader']//android.widget.RelativeLayout[1]//android.widget.TextView[@text='2']"
-    manualteamname_xpath = "//android.widget.RelativeLayout[@resource-id='com.subagent.run567:id/llHeader']//android.widget.RelativeLayout[1]//android.widget.TextView[@text='2']/../../../../android.widget.RelativeLayout//androidx.appcompat.widget.LinearLayoutCompat//android.widget.RelativeLayout/android.widget.TextView[1]"
+    wintoss_team1_xpath = "//android.widget.RelativeLayout[@resource-id='com.subagent.run567:id/llHeader']//android.widget.RelativeLayout[1]//android.widget.TextView[@text='2']/../../../../android.widget.RelativeLayout//androidx.appcompat.widget.LinearLayoutCompat//android.widget.RelativeLayout/android.widget.TextView[1]"
+    wintoss_team2_xpath = "//android.widget.RelativeLayout[@resource-id='com.subagent.run567:id/llHeader']//android.widget.RelativeLayout[1]//android.widget.TextView[@text='2']/../../../../android.widget.RelativeLayout//androidx.appcompat.widget.LinearLayoutCompat//android.widget.RelativeLayout/android.widget.TextView[2]"
     match_date_xpath = "//android.widget.RelativeLayout[@resource-id='com.subagent.run567:id/llHeader']//android.widget.RelativeLayout[1]//android.widget.TextView[@text='2']/../../../../../android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.TextView[1]"
     wintossback_xpath = "//android.widget.TextView[@text='TO WIN THE TOSS']/../../../../../android.widget.RelativeLayout//android.view.ViewGroup[1]//android.widget.LinearLayout/android.widget.LinearLayout[@resource-id='com.subagent.run567:id/flBack']"
     inp_betprice_id = "com.subagent.run567:id/edt_stack"
@@ -55,7 +56,7 @@ class Run567:
     menu_id = "com.subagent.run567:id/menu_setting"
     home_id = "com.subagent.run567:id/menu_setting"
     center_menu_id = "com.subagent.run567:id/fab_center"
-    btn_openbets_xpath = "//androidx.recyclerview.widget.RecyclerView[@resource-id='com.subagent.run567:id/rv_menu_list']/android.widget.LinearLayout[4]"
+    btn_openbets_xpath = "//android.widget.TextView[@text='Open Bets']"
     rp_runnername_xpath = "//androidx.cardview.widget.CardView[@resource-id='com.subagent.run567:id/layout_main'][1]/android.widget.LinearLayout/android.widget.LinearLayout[1]/androidx.appcompat.widget.LinearLayoutCompat[1]//android.widget.TextView[1]"
     rp_oddsrate_xpath = "//androidx.cardview.widget.CardView[@resource-id='com.subagent.run567:id/layout_main'][1]/android.widget.LinearLayout/android.widget.LinearLayout[1]/androidx.appcompat.widget.LinearLayoutCompat[3]//android.widget.TextView[1]"
     rp_stackrate_xpath = "//androidx.cardview.widget.CardView[@resource-id='com.subagent.run567:id/layout_main'][1]/android.widget.LinearLayout/android.widget.LinearLayout[1]/androidx.appcompat.widget.LinearLayoutCompat[3]//android.widget.TextView[2]"
@@ -69,12 +70,19 @@ class Run567:
     livematchlist_xpath = "//android.widget.RelativeLayout[@resource-id='com.subagent.run567:id/llHeader']"
     market_status_xpath = "//android.widget.TextView[@text='MATCH ODDS']/../../../../../android.widget.RelativeLayout//android.view.ViewGroup[1]/android.view.ViewGroup[@resource-id='com.subagent.run567:id/titleLayout']/following-sibling::android.widget.TextView[1]"
     inplaymatces_xpath = "//android.widget.HorizontalScrollView[@resource-id='com.subagent.run567:id/sportTab']/android.widget.LinearLayout/android.widget.LinearLayout[1]//android.widget.TextView[@resource-id='com.subagent.run567:id/txt_inplay']"
-    inplay_teamname_xpath = "//android.widget.RelativeLayout[@resource-id='com.subagent.run567:id/llHeader']//android.widget.TextView[@resource-id='com.subagent.run567:id/txt_team1']"
+    inplay_teamname1_xpath = "//android.widget.RelativeLayout[@resource-id='com.subagent.run567:id/llHeader']//android.widget.TextView[@resource-id='com.subagent.run567:id/txt_team1']"
+    inplay_teamname2_xpath = "//android.widget.RelativeLayout[@resource-id='com.subagent.run567:id/llHeader']//android.widget.TextView[@resource-id='com.subagent.run567:id/txt_team2']"
     matchodds_back_xpath = "//android.widget.TextView[@text='MATCH ODDS']/../../../../../android.widget.RelativeLayout//androidx.recyclerview.widget.RecyclerView[@resource-id='com.subagent.run567:id/runners_recycler']/android.view.ViewGroup[1]//android.widget.LinearLayout[@resource-id='com.subagent.run567:id/flBack']"
 
     def __init__(self, driver):
         self.driver = driver
-        self.WebDriverWait = WebDriverWait(self.driver, 20)
+        self.WebDriverWait = WebDriverWait(self.driver, 5)
+
+    def getmarketname(self):
+        self.WebDriverWait.until(EC.visibility_of_element_located((AppiumBy.XPATH, self.inplay_teamname1_xpath)))
+        team1 = self.driver.find_element(AppiumBy.XPATH, self.inplay_teamname1_xpath).get_attribute("text")
+        team2 = self.driver.find_element(AppiumBy.XPATH, self.inplay_teamname2_xpath).get_attribute("text")
+        return team1,"vs", team2
 
     def scrollmarket(self):
         actions = ActionChains(self.driver)
@@ -190,10 +198,10 @@ class Run567:
             self.logger.info("Wager Is Selected")
         elif stat.lower() == "false" and inp.lower() == "true":
             status.click()
-            self.logger.info("Wager is selected And Now Turn On Real Money")
+            self.logger.info("Real Money is selected And Now Turn On Wager")
         elif stat.lower() == "true" and inp.lower() == "false":
             status.click()
-            self.logger.info("Real Money is selected And Now Turn On Wager")
+            self.logger.info("Wager is selected And Now Turn On Real Money")
         elif stat.lower() == "false" and inp.lower() == "false":
             self.logger.info("Real money is selected")
 

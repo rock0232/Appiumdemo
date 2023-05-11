@@ -498,3 +498,500 @@
 05/10/2023 06:29:55 PM: INFO: Enter into market successfully match name =MENSIK
 05/10/2023 06:30:16 PM: INFO: Enter into market successfully match name =N HARDT
 05/10/2023 06:30:49 PM: INFO: exception occur 7 match team name = ['G MELZER', 'EL COCCIARETTO', 'PAVLYUCHENKOVA', 'GIUSTINO', 'MA PAOLETTI', 'TAYLO TOWNSEND', 'V GRACHEVA', 'MENSIK', 'N HARDT', 'LESTIENNE']
+05/11/2023 10:13:25 AM: INFO: User not login message = java.lang.IllegalStateException: Expected BEGIN_OBJECT but was BEGIN_ARRAY at line 1 column 24 path $.result.gameData
+05/11/2023 10:14:32 AM: INFO: User Wallet amount before bet place= 27588.58
+05/11/2023 10:14:32 AM: INFO: User exposure amount before bet place = 0.0
+05/11/2023 10:14:33 AM: INFO: Real money is selected
+05/11/2023 10:15:56 AM: INFO: Enter into market successfully match name =SRI LANKA WOMEN
+05/11/2023 10:17:06 AM: INFO: Enter into market successfully match name =MAGER
+05/11/2023 10:17:50 AM: INFO: Enter into market successfully match name =UCHIYAMA
+05/11/2023 10:19:09 AM: INFO: Enter into market successfully match name =ATLETICO SAN LUIS
+05/11/2023 10:21:03 AM: INFO: Bet has been placed successfully
+05/11/2023 10:21:07 AM: INFO: Bet Place Team Name = CF America
+05/11/2023 10:21:07 AM: INFO: Bet Odds = 1.02
+05/11/2023 10:21:07 AM: INFO: Bet Stake Amount = 100.0
+05/11/2023 10:21:07 AM: INFO: P/L On Bet = 2.00
+05/11/2023 10:21:09 AM: INFO: Exposure After Bet Place = 100
+05/11/2023 10:21:10 AM: INFO: Wallet Amount After Bet Place = 27488
+05/11/2023 10:21:14 AM: INFO: Bet Place Team Name = CF America
+05/11/2023 10:21:14 AM: INFO: Bet Odds = 1.02
+05/11/2023 10:21:14 AM: INFO: Bet Stake Amount = 100.0
+05/11/2023 10:21:14 AM: INFO: P/L On Bet = 2.0
+05/11/2023 10:21:14 AM: INFO: Test Passed Wallet amount and Exposure is updated after Bet place
+05/11/2023 10:57:59 AM: INFO: User not login message = java.lang.IllegalStateException: Expected BEGIN_OBJECT but was BEGIN_ARRAY at line 1 column 24 path $.result.gameData
+05/11/2023 11:04:52 AM: INFO: User not login message = java.lang.IllegalStateException: Expected BEGIN_OBJECT but was BEGIN_ARRAY at line 1 column 24 path $.result.gameData
+05/11/2023 11:04:55 AM: INFO: User Wallet amount before bet place= 27590.58
+05/11/2023 11:04:55 AM: INFO: User exposure amount before bet place = 0.0
+05/11/2023 11:04:56 AM: INFO: Real money is selected
+05/11/2023 11:06:06 AM: INFO: exception occur 0 match team name = ['SRI LANKA WOMEN']
+05/11/2023 11:06:11 AM: INFO: exception occur 1 match team name = ['SRI LANKA WOMEN']
+05/11/2023 11:06:14 AM: INFO: exception occur 2 match team name = ['SRI LANKA WOMEN']
+05/11/2023 11:07:15 AM: INFO: User not login message = java.lang.IllegalStateException: Expected BEGIN_OBJECT but was BEGIN_ARRAY at line 1 column 24 path $.result.gameData
+05/11/2023 11:07:18 AM: INFO: User Wallet amount before bet place= 27590.58
+05/11/2023 11:07:18 AM: INFO: User exposure amount before bet place = 0.0
+05/11/2023 11:07:19 AM: INFO: Real money is selected
+05/11/2023 11:08:11 AM: INFO: Bet Not place Market Status is LOW LIQUIDITY In market SRI LANKA WOMENVSBANGLADESH WOMEN
+05/11/2023 11:09:11 AM: INFO: exception occur 1 match team name = ['SRI LANKA WOMEN']
+05/11/2023 11:09:19 AM: INFO: exception occur 2 match team name = ['SRI LANKA WOMEN']
+05/11/2023 11:10:56 AM: INFO: User not login message = java.lang.IllegalStateException: Expected BEGIN_OBJECT but was BEGIN_ARRAY at line 1 column 24 path $.result.gameData
+05/11/2023 11:10:58 AM: INFO: User Wallet amount before bet place= 27590.58
+05/11/2023 11:10:58 AM: INFO: User exposure amount before bet place = 0.0
+05/11/2023 11:10:59 AM: INFO: Real money is selected
+05/11/2023 11:12:57 AM: INFO: exception occur 0 match team name = ['SRI LANKA WOMEN']
+05/11/2023 11:13:52 AM: INFO: exception occur 1 match team name = ['SRI LANKA WOMEN', 'MAGER']
+05/11/2023 11:14:44 AM: INFO: exception occur 2 match team name = ['SRI LANKA WOMEN', 'MAGER', 'UCHIYAMA']
+05/11/2023 11:42:40 AM: INFO: Login Successful, login with kt11
+05/11/2023 11:50:17 AM: INFO: Login Successful, login with kt11
+05/11/2023 11:54:02 AM: INFO: Login Successful, login with kt11
+05/11/2023 11:56:57 AM: INFO: Login Successful, login with kt11
+05/11/2023 11:58:22 AM: INFO: User Wallet amount before bet place= 27590.58
+05/11/2023 11:58:22 AM: INFO: User exposure amount before bet place = 0.0
+05/11/2023 11:58:23 AM: INFO: Real money is selected
+05/11/2023 11:58:40 AM: INFO: Bet has been placed successfully
+05/11/2023 11:58:57 AM: INFO: open bet dialog not available
+05/11/2023 11:58:58 AM: INFO: Exposure After Bet Place = 0
+05/11/2023 11:58:59 AM: INFO: Wallet Amount After Bet Place = 27590
+05/11/2023 11:59:18 AM: INFO: Open Bet Report Not Open
+05/11/2023 12:12:15 PM: INFO: Login Successful, login with kt11
+05/11/2023 12:13:55 PM: INFO: Login Successful, login with kt11
+05/11/2023 12:14:35 PM: INFO: User Wallet amount before bet place= 27590.58
+05/11/2023 12:14:35 PM: INFO: User exposure amount before bet place = 0.0
+05/11/2023 12:14:37 PM: INFO: Real money is selected
+05/11/2023 12:14:56 PM: INFO: Bet has been placed successfully
+05/11/2023 12:15:13 PM: INFO: open bet dialog not available
+05/11/2023 12:19:24 PM: INFO: User not login message = HTTP 404 
+05/11/2023 12:19:59 PM: INFO: User Wallet amount before bet place= 27490.58
+05/11/2023 12:19:59 PM: INFO: User exposure amount before bet place = 100.0
+05/11/2023 12:20:00 PM: INFO: Real money is selected
+05/11/2023 12:20:22 PM: INFO: Bet has been placed successfully
+05/11/2023 12:20:30 PM: INFO: Bet Place Team Name = Kolkata Knight Riders 
+05/11/2023 12:20:30 PM: INFO: Bet Odds = 1.97
+05/11/2023 12:20:30 PM: INFO: Bet Stake Amount = 100.0
+05/11/2023 12:20:30 PM: INFO: P/L On Bet = 97.00
+05/11/2023 12:20:32 PM: INFO: Exposure After Bet Place = 200
+05/11/2023 12:20:33 PM: INFO: Wallet Amount After Bet Place = 27390
+05/11/2023 12:20:40 PM: INFO: Bet Place Team Name = Kolkata Knight Riders 
+05/11/2023 12:20:40 PM: INFO: Bet Odds = 1.97
+05/11/2023 12:20:40 PM: INFO: Bet Stake Amount = 100.0
+05/11/2023 12:20:40 PM: INFO: P/L On Bet = 97.0
+05/11/2023 12:20:40 PM: INFO: Test Passed Wallet amount and Exposure is updated after Bet place
+05/11/2023 12:22:28 PM: INFO: Login Successful, login with kt11
+05/11/2023 12:23:12 PM: INFO: User Wallet amount before bet place= 27390.58
+05/11/2023 12:23:12 PM: INFO: User exposure amount before bet place = 200.0
+05/11/2023 12:23:15 PM: INFO: Real money is selected
+05/11/2023 12:23:36 PM: INFO: Bet has been placed successfully
+05/11/2023 12:23:46 PM: INFO: Bet Place Team Name = Kolkata Knight Riders 
+05/11/2023 12:23:46 PM: INFO: Bet Odds = 1.97
+05/11/2023 12:23:46 PM: INFO: Bet Stake Amount = 100.0
+05/11/2023 12:23:46 PM: INFO: P/L On Bet = 97.00
+05/11/2023 12:23:50 PM: INFO: Exposure After Bet Place = 300
+05/11/2023 12:23:52 PM: INFO: Wallet Amount After Bet Place = 27290
+05/11/2023 12:23:59 PM: INFO: Bet Place Team Name = Kolkata Knight Riders 
+05/11/2023 12:23:59 PM: INFO: Bet Odds = 1.97
+05/11/2023 12:23:59 PM: INFO: Bet Stake Amount = 100.0
+05/11/2023 12:23:59 PM: INFO: P/L On Bet = 97.0
+05/11/2023 12:23:59 PM: INFO: Test Passed Wallet amount and Exposure is updated after Bet place
+05/11/2023 12:39:38 PM: INFO: Login Successful, login with kt11
+05/11/2023 12:41:57 PM: INFO: Login Successful, login with sp25
+05/11/2023 12:42:18 PM: INFO: User Wallet amount before bet place= 4820.0
+05/11/2023 12:42:18 PM: INFO: User exposure amount before bet place = 200.0
+05/11/2023 12:42:20 PM: INFO: Real Money is selected And Now Turn On Wager
+05/11/2023 12:43:11 PM: INFO: Error in finding market and place Bet  Message: Cached elements 'By.xpath: //android.widget.RelativeLayout[@resource-id='com.subagent.run567:id/llHeader']//android.widget.RelativeLayout[1]//android.widget.TextView[@text='2']/../../../../../android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.TextView[1]' do not exist in DOM anymore
+Stacktrace:
+io.appium.uiautomator2.common.exceptions.StaleElementReferenceException: Cached elements 'By.xpath: //android.widget.RelativeLayout[@resource-id='com.subagent.run567:id/llHeader']//android.widget.RelativeLayout[1]//android.widget.TextView[@text='2']/../../../../../android.widget.RelativeLayout[1]/android.widget.RelativeLayout[1]/android.widget.TextView[1]' do not exist in DOM anymore
+	at io.appium.uiautomator2.model.ElementsCache.restore(ElementsCache.java:78)
+	at io.appium.uiautomator2.model.ElementsCache.get(ElementsCache.java:153)
+	at io.appium.uiautomator2.handler.GetElementAttribute.safeHandle(GetElementAttribute.java:23)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:59)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:266)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:260)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:68)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:266)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:552)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:466)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:1012)
+
+05/11/2023 12:54:28 PM: INFO: Login Successful, login with sp25
+05/11/2023 12:54:48 PM: INFO: User Wallet amount before bet place= 4720.0
+05/11/2023 12:54:48 PM: INFO: User exposure amount before bet place = 300.0
+05/11/2023 12:54:50 PM: INFO: Real Money is selected And Now Turn On Wager
+05/11/2023 12:57:01 PM: INFO: Bet Not place Market Status is LOW LIQUIDITY In market TARANAKI AIRS VS HAWKES BAY HAWKS
+05/11/2023 12:57:02 PM: INFO: Bet has been placed successfully
+05/11/2023 12:57:20 PM: INFO: open bet dialog not available
+05/11/2023 12:57:21 PM: INFO: Exposure After Bet Place = 500
+05/11/2023 12:57:22 PM: INFO: Wallet Amount After Bet Place = 4520
+05/11/2023 02:01:08 PM: INFO: Login Successful, login with sp25
+05/11/2023 02:01:28 PM: INFO: User Wallet amount before bet place= 4520.0
+05/11/2023 02:01:28 PM: INFO: User exposure amount before bet place = 500.0
+05/11/2023 02:01:29 PM: INFO: Real Money is selected And Now Turn On Wager
+05/11/2023 02:02:01 PM: INFO: Error in finding market and place Bet  Message: Cached elements 'By.xpath: //android.widget.RelativeLayout[@resource-id='com.subagent.run567:id/llHeader']//android.widget.RelativeLayout[1]//android.widget.TextView[@text='2']/../../../../android.widget.RelativeLayout//androidx.appcompat.widget.LinearLayoutCompat//android.widget.RelativeLayout/android.widget.TextView[1]' do not exist in DOM anymore
+Stacktrace:
+io.appium.uiautomator2.common.exceptions.StaleElementReferenceException: Cached elements 'By.xpath: //android.widget.RelativeLayout[@resource-id='com.subagent.run567:id/llHeader']//android.widget.RelativeLayout[1]//android.widget.TextView[@text='2']/../../../../android.widget.RelativeLayout//androidx.appcompat.widget.LinearLayoutCompat//android.widget.RelativeLayout/android.widget.TextView[1]' do not exist in DOM anymore
+	at io.appium.uiautomator2.model.ElementsCache.restore(ElementsCache.java:78)
+	at io.appium.uiautomator2.model.ElementsCache.get(ElementsCache.java:153)
+	at io.appium.uiautomator2.handler.GetElementAttribute.safeHandle(GetElementAttribute.java:23)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:59)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:266)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:260)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:68)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:266)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:552)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:466)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:1012)
+
+05/11/2023 02:02:16 PM: INFO: Error in finding market and place Bet  Message: Cached elements 'By.xpath: //android.widget.RelativeLayout[@resource-id='com.subagent.run567:id/llHeader']//android.widget.RelativeLayout[1]//android.widget.TextView[@text='2']/../../../../android.widget.RelativeLayout//androidx.appcompat.widget.LinearLayoutCompat//android.widget.RelativeLayout/android.widget.TextView[1]' do not exist in DOM anymore
+Stacktrace:
+io.appium.uiautomator2.common.exceptions.StaleElementReferenceException: Cached elements 'By.xpath: //android.widget.RelativeLayout[@resource-id='com.subagent.run567:id/llHeader']//android.widget.RelativeLayout[1]//android.widget.TextView[@text='2']/../../../../android.widget.RelativeLayout//androidx.appcompat.widget.LinearLayoutCompat//android.widget.RelativeLayout/android.widget.TextView[1]' do not exist in DOM anymore
+	at io.appium.uiautomator2.model.ElementsCache.restore(ElementsCache.java:78)
+	at io.appium.uiautomator2.model.ElementsCache.get(ElementsCache.java:153)
+	at io.appium.uiautomator2.handler.GetElementAttribute.safeHandle(GetElementAttribute.java:23)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:59)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:266)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:260)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:68)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:266)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:552)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:466)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:1012)
+
+05/11/2023 02:02:47 PM: INFO: Error in finding market and place Bet  Message: Cached elements 'By.xpath: //android.widget.RelativeLayout[@resource-id='com.subagent.run567:id/llHeader']//android.widget.RelativeLayout[1]//android.widget.TextView[@text='2']/../../../../android.widget.RelativeLayout//androidx.appcompat.widget.LinearLayoutCompat//android.widget.RelativeLayout/android.widget.TextView[1]' do not exist in DOM anymore
+Stacktrace:
+io.appium.uiautomator2.common.exceptions.StaleElementReferenceException: Cached elements 'By.xpath: //android.widget.RelativeLayout[@resource-id='com.subagent.run567:id/llHeader']//android.widget.RelativeLayout[1]//android.widget.TextView[@text='2']/../../../../android.widget.RelativeLayout//androidx.appcompat.widget.LinearLayoutCompat//android.widget.RelativeLayout/android.widget.TextView[1]' do not exist in DOM anymore
+	at io.appium.uiautomator2.model.ElementsCache.restore(ElementsCache.java:78)
+	at io.appium.uiautomator2.model.ElementsCache.get(ElementsCache.java:153)
+	at io.appium.uiautomator2.handler.GetElementAttribute.safeHandle(GetElementAttribute.java:23)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:59)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:266)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:260)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:68)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:266)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:552)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:466)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:1012)
+
+05/11/2023 02:03:01 PM: INFO: Error in finding market and place Bet  Message: Cached elements 'By.xpath: //android.widget.RelativeLayout[@resource-id='com.subagent.run567:id/llHeader']//android.widget.RelativeLayout[1]//android.widget.TextView[@text='2']/../../../../android.widget.RelativeLayout//androidx.appcompat.widget.LinearLayoutCompat//android.widget.RelativeLayout/android.widget.TextView[1]' do not exist in DOM anymore
+Stacktrace:
+io.appium.uiautomator2.common.exceptions.StaleElementReferenceException: Cached elements 'By.xpath: //android.widget.RelativeLayout[@resource-id='com.subagent.run567:id/llHeader']//android.widget.RelativeLayout[1]//android.widget.TextView[@text='2']/../../../../android.widget.RelativeLayout//androidx.appcompat.widget.LinearLayoutCompat//android.widget.RelativeLayout/android.widget.TextView[1]' do not exist in DOM anymore
+	at io.appium.uiautomator2.model.ElementsCache.restore(ElementsCache.java:78)
+	at io.appium.uiautomator2.model.ElementsCache.get(ElementsCache.java:153)
+	at io.appium.uiautomator2.handler.GetElementAttribute.safeHandle(GetElementAttribute.java:23)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:59)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:266)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:260)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:68)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:266)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:552)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:466)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:1012)
+
+05/11/2023 02:04:41 PM: INFO: Bet Not place Market Status is LOW LIQUIDITY In market TARANAKI AIRS VS HAWKES BAY HAWKS
+05/11/2023 02:04:42 PM: INFO: Bet has been placed successfully
+05/11/2023 02:04:59 PM: INFO: open bet dialog not available
+05/11/2023 02:05:01 PM: INFO: Exposure After Bet Place = 900
+05/11/2023 02:05:02 PM: INFO: Wallet Amount After Bet Place = 4120
+05/11/2023 02:12:55 PM: INFO: Login Successful, login with sp25
+05/11/2023 02:13:16 PM: INFO: User Wallet amount before bet place= 4120.0
+05/11/2023 02:13:16 PM: INFO: User exposure amount before bet place = 900.0
+05/11/2023 02:13:18 PM: INFO: Wager Is Selected
+05/11/2023 02:13:45 PM: INFO: Bet Not Placed, Market Name is KOLKATA KNIGHT RIDERS
+05/11/2023 02:14:01 PM: INFO: Bet Not Placed, Market Name is MUMBAI INDIANS
+05/11/2023 02:16:05 PM: INFO: Bet Not place Market Status is LOW LIQUIDITY In market TARANAKI AIRS VS HAWKES BAY HAWKS
+05/11/2023 02:22:27 PM: INFO: Login Successful, login with sp25
+05/11/2023 02:22:48 PM: INFO: User Wallet amount before bet place= 4120.0
+05/11/2023 02:22:48 PM: INFO: User exposure amount before bet place = 900.0
+05/11/2023 02:22:49 PM: INFO: Wager Is Selected
+05/11/2023 02:23:16 PM: INFO: Bet Not Placed, Market Name is KOLKATA KNIGHT RIDERS
+05/11/2023 02:23:32 PM: INFO: Bet Not Placed, Market Name is MUMBAI INDIANS
+05/11/2023 02:24:19 PM: INFO: Bet not placed in market =MAGER VS NIC MORENO DE ALBORAN and message after betplace = You don't have any active wager for place bet.
+05/11/2023 02:24:56 PM: INFO: Bet not placed in market =SWEENY VS HUG GASTON and message after betplace = You reached Rate Exposure limits.
+05/11/2023 02:25:28 PM: INFO: exception occur 2 match team name = ['MAGER', 'SWEENY', 'TARANAKI AIRS']
+05/11/2023 02:32:16 PM: INFO: Login Successful, login with sp25
+05/11/2023 02:32:36 PM: INFO: User Wallet amount before bet place= 4120.0
+05/11/2023 02:32:36 PM: INFO: User exposure amount before bet place = 900.0
+05/11/2023 02:32:37 PM: INFO: Real Money is selected And Now Turn On Wager
+05/11/2023 02:33:06 PM: INFO: Bet has been placed successfully Market Name is KOLKATA KNIGHT RIDERS and message after bet place = Bet has been placed successfully. 
+05/11/2023 02:33:22 PM: INFO: Bet has been placed successfully Market Name is MUMBAI INDIANS and message after bet place = Bet has been placed successfully. 
+05/11/2023 02:34:07 PM: INFO: Bet not placed in market =MAGER VS NIC MORENO DE ALBORAN and message after betplace = This market not allow unmatch bet.
+05/11/2023 02:34:37 PM: INFO: Bet not placed in market =SWEENY VS HUG GASTON and message after betplace = You reached Rate Exposure limits.
+05/11/2023 02:34:39 PM: INFO: Bet has been placed successfully
+05/11/2023 02:34:57 PM: INFO: open bet dialog not available
+05/11/2023 02:34:59 PM: INFO: Exposure After Bet Place = 1100
+05/11/2023 02:35:00 PM: INFO: Wallet Amount After Bet Place = 3920
+05/11/2023 02:40:11 PM: INFO: Login Successful, login with sp25
+05/11/2023 02:40:31 PM: INFO: User Wallet amount before bet place= 3920.0
+05/11/2023 02:40:31 PM: INFO: User exposure amount before bet place = 1100.0
+05/11/2023 02:40:33 PM: INFO: Real Money is selected And Now Turn On Wager
+05/11/2023 02:41:05 PM: INFO: Error in finding market and place Bet  Message: The element 'By.xpath: //android.widget.Toast[1]' does not exist in DOM anymore
+Stacktrace:
+io.appium.uiautomator2.common.exceptions.StaleElementReferenceException: The element 'By.xpath: //android.widget.Toast[1]' does not exist in DOM anymore
+	at io.appium.uiautomator2.model.ElementsCache.restore(ElementsCache.java:117)
+	at io.appium.uiautomator2.model.ElementsCache.get(ElementsCache.java:153)
+	at io.appium.uiautomator2.handler.GetElementAttribute.safeHandle(GetElementAttribute.java:23)
+	at io.appium.uiautomator2.handler.request.SafeRequestHandler.handle(SafeRequestHandler.java:59)
+	at io.appium.uiautomator2.server.AppiumServlet.handleRequest(AppiumServlet.java:266)
+	at io.appium.uiautomator2.server.AppiumServlet.handleHttpRequest(AppiumServlet.java:260)
+	at io.appium.uiautomator2.http.ServerHandler.channelRead(ServerHandler.java:68)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.codec.MessageToMessageDecoder.channelRead(MessageToMessageDecoder.java:102)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.CombinedChannelDuplexHandler$DelegatingChannelHandlerContext.fireChannelRead(CombinedChannelDuplexHandler.java:435)
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:293)
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:267)
+	at io.netty.channel.CombinedChannelDuplexHandler.channelRead(CombinedChannelDuplexHandler.java:250)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:266)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:345)
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1294)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:366)
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:352)
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:911)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:131)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:611)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:552)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:466)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:438)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$2.run(SingleThreadEventExecutor.java:140)
+	at io.netty.util.concurrent.DefaultThreadFactory$DefaultRunnableDecorator.run(DefaultThreadFactory.java:144)
+	at java.lang.Thread.run(Thread.java:1012)
+
+05/11/2023 02:41:18 PM: INFO: Bet has been placed successfully Market Name is MUMBAI INDIANS and message after bet place = Bet has been placed successfully. 
+05/11/2023 02:41:49 PM: INFO: Bet has been placed successfully Market Name is KOLKATA KNIGHT RIDERS and message after bet place = Bet has been placed successfully. 
+05/11/2023 02:42:24 PM: INFO: Bet not placed in market =MAGER VS NIC MORENO DE ALBORAN and message after betplace = Market Rate not valid, please contact to Upline.
+05/11/2023 02:42:56 PM: INFO: Bet placed successfully in market =KA PLISKOVA VS A BONDAR
+05/11/2023 02:43:28 PM: INFO: Bet placed successfully in market =HUESLER VS KUBLER
+05/11/2023 02:44:02 PM: INFO: exception occur 3 match team name = ZEPPIERI
+05/11/2023 02:44:34 PM: INFO: Bet placed successfully in market =SWEENY VS HUG GASTON
+05/11/2023 02:44:41 PM: INFO: Bet Not place Market Status is LOW LIQUIDITY In market MORO CANAS VS SVAJDA
+05/11/2023 02:45:13 PM: INFO: Bet placed successfully in market =AZARENKA VS STEPHENS
+05/11/2023 02:45:19 PM: INFO: Bet Not place Market Status is LOW LIQUIDITY In market PARRIZAS DIAZ VS V KUDERMETOVA
+05/11/2023 02:45:20 PM: INFO: Bet has been placed successfully
+05/11/2023 02:45:38 PM: INFO: open bet dialog not available
+05/11/2023 02:45:40 PM: INFO: Exposure After Bet Place = 1900
+05/11/2023 02:45:40 PM: INFO: Wallet Amount After Bet Place = 3120
+05/11/2023 02:49:48 PM: INFO: Login Successful, login with sp25
+05/11/2023 02:50:08 PM: INFO: User Wallet amount before bet place= 3120.0
+05/11/2023 02:50:08 PM: INFO: User exposure amount before bet place = 1900.0
+05/11/2023 02:50:09 PM: INFO: Real Money is selected And Now Turn On Wager
+05/11/2023 02:50:35 PM: INFO: Bet has been placed successfully Market Name is KOLKATA KNIGHT RIDERS and message after bet place = Bet has been placed successfully. 
+05/11/2023 02:53:24 PM: INFO: Login Successful, login with sp25
+05/11/2023 02:53:44 PM: INFO: User Wallet amount before bet place= 2920.0
+05/11/2023 02:53:44 PM: INFO: User exposure amount before bet place = 2100.0
+05/11/2023 02:53:45 PM: INFO: Wager is selected And Now Turn On Real Money
+05/11/2023 02:54:16 PM: INFO: Bet has been placed successfully Market Name is KOLKATA KNIGHT RIDERS and message after bet place = Bet has been placed successfully. 
+05/11/2023 02:54:31 PM: INFO: Bet has been placed successfully Market Name is MUMBAI INDIANS and message after bet place = Bet has been placed successfully. 
+05/11/2023 02:55:20 PM: INFO: Bet not placed in market =MAGER VS NIC MORENO DE ALBORAN and message after betplace = Market Rate not valid, please contact to Upline.
+05/11/2023 02:55:54 PM: INFO: Bet not placed in market =KA PLISKOVA VS A BONDAR and message after betplace = This market not allow unmatch bet.
+05/11/2023 02:56:23 PM: INFO: Bet not placed in market =I BEGU VS XIN WANG and message after betplace = This market not allow unmatch bet.
+05/11/2023 02:56:57 PM: INFO: Bet not placed in market =DELLIEN VS CARBALLES BAENA and message after betplace = This market not allow unmatch bet.
+05/11/2023 02:57:29 PM: INFO: Bet placed successfully in market =HUESLER VS KUBLER
+05/11/2023 02:57:59 PM: INFO: Bet placed successfully in market =ZEPPIERI VS ALTMAIER
+05/11/2023 02:58:29 PM: INFO: Bet not placed in market =SWEENY VS HUG GASTON and message after betplace = This market not allow unmatch bet.
+05/11/2023 02:59:03 PM: INFO: exception occur 7 match team name = MORO CANAS
+05/11/2023 02:59:17 PM: INFO: Bet Not place Market Status is LOW LIQUIDITY In market GOMBOS VS SH MOCHIZUKI
+05/11/2023 02:59:19 PM: INFO: Bet has been placed successfully
+05/11/2023 02:59:34 PM: INFO: open bet dialog not available
+05/11/2023 03:32:56 PM: INFO: Login Successful, login with sp25
+05/11/2023 03:33:16 PM: INFO: User Wallet amount before bet place= 2520.0
+05/11/2023 03:33:16 PM: INFO: User exposure amount before bet place = 2400.0
+05/11/2023 03:33:19 PM: INFO: Wager is selected And Now Turn On Real Money
+05/11/2023 03:33:54 PM: INFO: Bet has been placed successfully Market Name is KOLKATA KNIGHT RIDERS VS RAJASTHAN ROYALS and message after bet place = Bet has been placed successfully. 
+05/11/2023 03:33:54 PM: INFO: Bet has been placed successfully
+05/11/2023 03:34:11 PM: INFO: Below Details From open Bet 'Dialog'
+05/11/2023 03:34:11 PM: INFO: Bet Place Team Name = Kolkata Knight Riders 
+05/11/2023 03:34:11 PM: INFO: Bet Odds = 1.97
+05/11/2023 03:34:11 PM: INFO: Bet Stake Amount = 100.0
+05/11/2023 03:34:11 PM: INFO: P/L On Bet = 97.00
+05/11/2023 03:34:13 PM: INFO: Exposure After Bet Place = 2500
+05/11/2023 03:34:14 PM: INFO: Wallet Amount After Bet Place = 2420
+05/11/2023 03:34:34 PM: INFO: Open Bet Report Not Open
+05/11/2023 03:42:28 PM: INFO: Login Successful, login with sp25
+05/11/2023 03:42:50 PM: INFO: User Wallet amount before bet place= 2420.0
+05/11/2023 03:42:50 PM: INFO: User exposure amount before bet place = 2500.0
+05/11/2023 03:42:51 PM: INFO: Wager is selected And Now Turn On Real Money
+05/11/2023 03:43:31 PM: INFO: Bet has been placed successfully Market Name is KOLKATA KNIGHT RIDERS VS RAJASTHAN ROYALS and message after bet place = Bet has been placed successfully. 
+05/11/2023 03:43:31 PM: INFO: Bet has been placed successfully
+05/11/2023 03:43:47 PM: INFO: Below Details From open Bet 'Dialog'
+05/11/2023 03:43:47 PM: INFO: Bet Place Team Name = Kolkata Knight Riders 
+05/11/2023 03:43:47 PM: INFO: Bet Odds = 1.97
+05/11/2023 03:43:47 PM: INFO: Bet Stake Amount = 100.0
+05/11/2023 03:43:47 PM: INFO: P/L On Bet = 97.00
+05/11/2023 03:43:49 PM: INFO: Exposure After Bet Place = 2600
+05/11/2023 03:43:50 PM: INFO: Wallet Amount After Bet Place = 2320
+05/11/2023 03:44:09 PM: INFO: Open Bet Report Not Open
+05/11/2023 03:44:09 PM: INFO: Test Passed Wallet amount and Exposure is updated after Bet place
+05/11/2023 03:47:55 PM: INFO: Login Successful, login with sp25
+05/11/2023 03:48:17 PM: INFO: User Wallet amount before bet place= 2220.0
+05/11/2023 03:48:17 PM: INFO: User exposure amount before bet place = 2700.0
+05/11/2023 03:48:18 PM: INFO: Wager is selected And Now Turn On Real Money
+05/11/2023 03:49:00 PM: INFO: Bet has been placed successfully Market Name is KOLKATA KNIGHT RIDERS VS RAJASTHAN ROYALS and message after bet place = Bet has been placed successfully. 
+05/11/2023 03:49:00 PM: INFO: Bet has been placed successfully
+05/11/2023 03:49:14 PM: INFO: Below Details From open Bet 'Dialog'
+05/11/2023 03:49:14 PM: INFO: Bet Place Team Name = Kolkata Knight Riders 
+05/11/2023 03:49:14 PM: INFO: Bet Odds = 1.97
+05/11/2023 03:49:14 PM: INFO: Bet Stake Amount = 100.0
+05/11/2023 03:49:14 PM: INFO: P/L On Bet = 97.00
+05/11/2023 03:49:16 PM: INFO: Exposure After Bet Place = 2800
+05/11/2023 03:49:17 PM: INFO: Wallet Amount After Bet Place = 2120
+05/11/2023 03:49:32 PM: INFO: Below Details From open Bet 'Report'
+05/11/2023 03:49:32 PM: INFO: Bet Place Team Name = Kolkata Knight Riders 
+05/11/2023 03:49:32 PM: INFO: Bet Odds = 1.97
+05/11/2023 03:49:32 PM: INFO: Bet Stake Amount = 100.0
+05/11/2023 03:49:32 PM: INFO: P/L On Bet = 97.0
+05/11/2023 03:49:32 PM: INFO: Test Passed Wallet amount and Exposure is updated after Bet place
+05/11/2023 03:55:56 PM: INFO: Login Successful, login with sp25
+05/11/2023 03:56:17 PM: INFO: User Wallet amount before bet place= 2120.0
+05/11/2023 03:56:17 PM: INFO: User exposure amount before bet place = 2800.0
+05/11/2023 03:56:19 PM: INFO: Wager is selected And Now Turn On Real Money
+05/11/2023 03:57:13 PM: INFO: Bet has been placed successfully Market Name is MUMBAI INDIANS VS GUJARAT TITANS and message after bet place = Bet has been placed successfully. 
+05/11/2023 03:57:13 PM: INFO: Bet has been placed successfully
+05/11/2023 03:57:22 PM: INFO: Below Details From open Bet 'Dialog'
+05/11/2023 03:57:22 PM: INFO: Bet Place Team Name = Mumbai Indians
+05/11/2023 03:57:22 PM: INFO: Bet Odds = 1.97
+05/11/2023 03:57:22 PM: INFO: Bet Stake Amount = 100.0
+05/11/2023 03:57:22 PM: INFO: P/L On Bet = 97.00
+05/11/2023 03:57:24 PM: INFO: Exposure After Bet Place = 2900
+05/11/2023 03:57:25 PM: INFO: Wallet Amount After Bet Place = 2020
+05/11/2023 03:57:33 PM: INFO: Below Details From open Bet 'Report'
+05/11/2023 03:57:33 PM: INFO: Bet Place Team Name = Mumbai Indians
+05/11/2023 03:57:33 PM: INFO: Bet Odds = 1.97
+05/11/2023 03:57:33 PM: INFO: Bet Stake Amount = 100.0
+05/11/2023 03:57:33 PM: INFO: P/L On Bet = 97.0
+05/11/2023 03:57:33 PM: INFO: Test Passed Wallet amount and Exposure is updated after Bet place
