@@ -998,3 +998,241 @@ io.appium.uiautomator2.common.exceptions.StaleElementReferenceException: The ele
 05/16/2023 06:39:22 PM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029F7A841A50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session
 05/16/2023 06:39:26 PM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029F7A854DD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session
 05/16/2023 06:39:30 PM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029F7A855E10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session
+05/18/2023 02:59:49 PM: INFO: Login Successful, login with kt11
+05/18/2023 02:59:53 PM: INFO: User Wallet amount before bet place= 8333.12
+05/18/2023 02:59:53 PM: INFO: User exposure amount before bet place = 0.0
+05/18/2023 03:00:38 PM: INFO: Login Successful, login with kt11
+05/18/2023 03:30:16 PM: INFO: Login Successful, login with kt11
+05/18/2023 05:31:52 PM: INFO: Login Successful, login with kt11
+05/18/2023 05:33:56 PM: INFO: Login Successful, login with kt11
+05/18/2023 05:37:04 PM: INFO: Login Successful, login with kt11
+05/18/2023 05:41:23 PM: INFO: Login Successful, login with kt11
+05/18/2023 05:41:36 PM: INFO: User Wallet amount before bet place= 26352.75
+05/18/2023 05:41:36 PM: INFO: User exposure amount before bet place = 404.0
+05/18/2023 05:41:53 PM: INFO: Bet has been placed successfully Market Name is SUNRISERS HYDERABAD VS ROYAL CHALLENGERS BANGALORE and message after bet place = Bet has been placed successfully. 
+05/18/2023 05:41:53 PM: INFO: Bet has been placed successfully
+05/18/2023 05:42:04 PM: INFO: open bet dialog not available
+05/18/2023 05:42:05 PM: INFO: Wallet Amount After Bet Place = 26352
+05/18/2023 05:42:05 PM: INFO: Exposure After Bet Place = 404
+05/18/2023 05:42:05 PM: INFO: Wallet Amount and Exposure Not Update After Bet Place 
+05/18/2023 05:44:39 PM: INFO: Login Successful, login with kt11
+05/18/2023 05:44:53 PM: INFO: User Wallet amount before bet place= 26252
+05/18/2023 05:44:53 PM: INFO: User exposure amount before bet place = 504
+05/18/2023 05:45:57 PM: INFO: Bet has been placed successfully Market Name is KOLKATA KNIGHT RIDERS VS LUCKNOW SUPER GIANTS and message after bet place = Bet has been placed successfully. 
+05/18/2023 05:45:57 PM: INFO: Bet has been placed successfully
+05/18/2023 05:46:08 PM: INFO: open bet dialog not available
+05/18/2023 05:46:08 PM: INFO: Wallet Amount After Bet Place = 26252
+05/18/2023 05:46:08 PM: INFO: Exposure After Bet Place = 504
+05/18/2023 05:46:08 PM: INFO: Wallet Amount and Exposure Not Update After Bet Place 
+05/18/2023 06:22:24 PM: INFO: Login Successful, login with kt11
+05/18/2023 06:22:39 PM: INFO: User Wallet amount before bet place= 26052
+05/18/2023 06:22:39 PM: INFO: User exposure amount before bet place = 704
+05/18/2023 06:22:56 PM: INFO: Bet has been placed successfully Market Name is SUNRISERS HYDERABAD VS ROYAL CHALLENGERS BANGALORE and message after bet place = Bet has been placed successfully. 
+05/18/2023 06:22:56 PM: INFO: Bet has been placed successfully
+05/18/2023 06:23:07 PM: INFO: Below Details From open Bet 'Dialog'
+05/18/2023 06:23:07 PM: INFO: Bet Place Team Name = Sunrisers Hyderabad 
+05/18/2023 06:23:07 PM: INFO: Bet Odds = 1.97
+05/18/2023 06:23:07 PM: INFO: Bet Stake Amount = 100.0
+05/18/2023 06:23:07 PM: INFO: P/L On Bet = 97.0
+05/18/2023 06:23:09 PM: INFO: Wallet Amount After Bet Place = 26052
+05/18/2023 06:23:09 PM: INFO: Exposure After Bet Place = 704
+05/18/2023 06:23:09 PM: INFO: Wallet Amount and Exposure Not Update After Bet Place 
+05/18/2023 06:26:39 PM: INFO: Login Successful, login with kt11
+05/18/2023 06:26:53 PM: INFO: User Wallet amount before bet place= 25952
+05/18/2023 06:26:53 PM: INFO: User exposure amount before bet place = 804
+05/18/2023 06:28:04 PM: INFO: Bet has been placed successfully Market Name is KOLKATA KNIGHT RIDERS VS LUCKNOW SUPER GIANTS and message after bet place = Bet has been placed successfully. 
+05/18/2023 06:28:04 PM: INFO: Bet has been placed successfully
+05/18/2023 06:28:09 PM: INFO: Below Details From open Bet 'Dialog'
+05/18/2023 06:28:09 PM: INFO: Bet Place Team Name = Kolkata Knight Riders 
+05/18/2023 06:28:09 PM: INFO: Bet Odds = 1.97
+05/18/2023 06:28:09 PM: INFO: Bet Stake Amount = 100.0
+05/18/2023 06:28:09 PM: INFO: P/L On Bet = 97.0
+05/18/2023 06:28:10 PM: INFO: Wallet Amount After Bet Place = 25852
+05/18/2023 06:28:10 PM: INFO: Exposure After Bet Place = 904
+05/18/2023 06:28:14 PM: INFO: Below Details From open Bet 'Report'
+05/18/2023 06:28:14 PM: INFO: Bet Place Team Name = Kolkata Knight Riders 
+05/18/2023 06:28:14 PM: INFO: Bet Odds = 1.97
+05/18/2023 06:28:14 PM: INFO: Bet Stake Amount = 100.0
+05/18/2023 06:28:14 PM: INFO: P/L On Bet = 97.0
+05/18/2023 06:28:14 PM: INFO: Test Passed Wallet amount and Exposure is updated after Bet place
+05/18/2023 06:34:58 PM: INFO: Login Successful, login with kt11
+05/18/2023 06:35:12 PM: INFO: User Wallet amount before bet place= 25752
+05/18/2023 06:35:12 PM: INFO: User exposure amount before bet place = 1004
+05/18/2023 06:35:47 PM: INFO: Bet has been placed successfully Market Name is PUNJAB KINGS VS RAJASTHAN ROYALS and message after bet place = Bet has been placed successfully. 
+05/18/2023 06:35:47 PM: INFO: Bet has been placed successfully
+05/18/2023 06:35:55 PM: INFO: Below Details From open Bet 'Dialog'
+05/18/2023 06:35:55 PM: INFO: Bet Place Team Name = Punjab Kings 
+05/18/2023 06:35:55 PM: INFO: Bet Odds = 1.97
+05/18/2023 06:35:55 PM: INFO: Bet Stake Amount = 100.0
+05/18/2023 06:35:55 PM: INFO: P/L On Bet = 97.0
+05/18/2023 06:35:56 PM: INFO: Wallet Amount After Bet Place = 25752
+05/18/2023 06:35:56 PM: INFO: Exposure After Bet Place = 1004
+05/18/2023 06:35:56 PM: INFO: Wallet Amount and Exposure Not Update After Bet Place 
+05/18/2023 07:07:39 PM: INFO: Login Successful, login with kt11
+05/18/2023 07:07:53 PM: INFO: User Wallet amount before bet place= 25652
+05/18/2023 07:07:53 PM: INFO: User exposure amount before bet place = 804
+05/18/2023 07:08:30 PM: INFO: Bet has been placed successfully Market Name is PUNJAB KINGS VS RAJASTHAN ROYALS and message after bet place = Bet has been placed successfully. 
+05/18/2023 07:08:30 PM: INFO: Bet has been placed successfully
+05/18/2023 07:09:09 PM: INFO: Below Details From open Bet 'Dialog'
+05/18/2023 07:09:09 PM: INFO: Bet Place Team Name = Punjab Kings 
+05/18/2023 07:09:09 PM: INFO: Bet Odds = 1.97
+05/18/2023 07:09:09 PM: INFO: Bet Stake Amount = 100.0
+05/18/2023 07:09:09 PM: INFO: P/L On Bet = 97.0
+05/18/2023 07:09:10 PM: INFO: Wallet Amount After Bet Place = 25652
+05/18/2023 07:09:10 PM: INFO: Exposure After Bet Place = 804
+05/18/2023 07:09:10 PM: INFO: Wallet Amount and Exposure Not Update After Bet Place 
+05/19/2023 10:43:24 AM: INFO: Login Successful, login with kt11
+05/19/2023 10:43:38 AM: INFO: User Wallet amount before bet place= 25552
+05/19/2023 10:43:38 AM: INFO: User exposure amount before bet place = 904
+05/19/2023 10:43:57 AM: INFO: Bet has been placed successfully Market Name is PUNJAB KINGS VS RAJASTHAN ROYALS and message after bet place = Bet has been placed successfully. 
+05/19/2023 10:43:57 AM: INFO: Bet has been placed successfully
+05/19/2023 10:44:10 AM: INFO: Below Details From open Bet 'Dialog'
+05/19/2023 10:44:10 AM: INFO: Bet Place Team Name = Punjab Kings 
+05/19/2023 10:44:10 AM: INFO: Bet Odds = 1.97
+05/19/2023 10:44:10 AM: INFO: Bet Stake Amount = 100.0
+05/19/2023 10:44:10 AM: INFO: P/L On Bet = 97.0
+05/19/2023 10:44:10 AM: INFO: Wallet Amount After Bet Place = 25552
+05/19/2023 10:44:10 AM: INFO: Exposure After Bet Place = 904
+05/19/2023 10:44:10 AM: INFO: Wallet Amount and Exposure Not Update After Bet Place 
+05/19/2023 11:12:10 AM: WARNING: Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024559959090>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session
+05/19/2023 11:12:14 AM: WARNING: Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024559958110>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session
+05/19/2023 11:12:18 AM: WARNING: Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000024559978ED0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /wd/hub/session
+05/19/2023 11:15:04 AM: INFO: Login Successful, login with kt11
+05/19/2023 11:15:17 AM: INFO: User Wallet amount before bet place = 25452
+05/19/2023 11:15:17 AM: INFO: User exposure amount before bet place = 1004
+05/19/2023 11:15:36 AM: INFO: Bet has been placed successfully Market Name is PUNJAB KINGS VS RAJASTHAN ROYALS and message after bet place = Bet has been placed successfully. 
+05/19/2023 11:15:36 AM: INFO: Bet has been placed successfully
+05/19/2023 11:15:38 AM: INFO: Wallet Amount After Bet Place = 25452
+05/19/2023 11:15:38 AM: INFO: Exposure After Bet Place = 1004
+05/19/2023 11:15:38 AM: INFO: Wallet Amount and Exposure Not Update After Bet Place 
+05/19/2023 11:18:40 AM: INFO: Login Successful, login with kt11
+05/19/2023 11:18:54 AM: INFO: User Wallet amount before bet place = 25352
+05/19/2023 11:18:54 AM: INFO: User exposure amount before bet place = 1104
+05/19/2023 11:19:11 AM: INFO: Bet has been placed successfully Market Name is PUNJAB KINGS VS RAJASTHAN ROYALS and message after bet place = Bet has been placed successfully. 
+05/19/2023 11:19:11 AM: INFO: Bet has been placed successfully
+05/19/2023 11:21:05 AM: INFO: Bet sleep is not updated
+05/19/2023 11:21:15 AM: INFO: Wallet Amount After Bet Place = 25352
+05/19/2023 11:21:15 AM: INFO: Exposure After Bet Place = 1104
+05/19/2023 11:21:15 AM: INFO: Wallet Amount and Exposure Not Update After Bet Place 
+05/19/2023 11:22:41 AM: INFO: Login Successful, login with kt11
+05/19/2023 11:22:55 AM: INFO: User Wallet amount before bet place = 25252
+05/19/2023 11:22:55 AM: INFO: User exposure amount before bet place = 1204
+05/19/2023 11:23:14 AM: INFO: Bet has been placed successfully Market Name is PUNJAB KINGS VS RAJASTHAN ROYALS and message after bet place = Bet has been placed successfully. 
+05/19/2023 11:23:14 AM: INFO: Bet has been placed successfully
+05/19/2023 11:24:07 AM: INFO: Bet sleep is not updated
+05/19/2023 11:24:14 AM: INFO: Wallet Amount After Bet Place = 25252
+05/19/2023 11:24:14 AM: INFO: Exposure After Bet Place = 1204
+05/19/2023 11:24:47 AM: INFO: Below Details From open Bet 'Report'
+05/19/2023 11:24:47 AM: INFO: Bet Place Team Name = Punjab Kings 
+05/19/2023 11:24:47 AM: INFO: Bet Odds = 1.97
+05/19/2023 11:24:47 AM: INFO: Bet Stake Amount = 100.0
+05/19/2023 11:24:47 AM: INFO: P/L On Bet = 97.0
+05/19/2023 11:25:50 AM: INFO: Wallet Amount and Exposure Amount Not Updated After Bet Place
+05/19/2023 03:22:03 PM: INFO: Login Successful, login with kt11
+05/19/2023 03:22:16 PM: INFO: User Wallet amount before bet place = 24456
+05/19/2023 03:22:16 PM: INFO: User exposure amount before bet place = 2000
+05/19/2023 03:22:58 PM: INFO: Bet has been placed successfully Market Name is DELHI CAPITALS VS CHENNAI SUPER KINGS and message after bet place = Bet has been placed successfully. 
+05/19/2023 03:22:58 PM: INFO: Bet has been placed successfully
+05/19/2023 03:23:08 PM: INFO: Below Details From open Bet 'Dialog'
+05/19/2023 03:23:08 PM: INFO: Bet Place Team Name =  Chennai Super Kings
+05/19/2023 03:23:08 PM: INFO: Bet Odds = 1.97
+05/19/2023 03:23:08 PM: INFO: Bet Stake Amount = 102.0
+05/19/2023 03:23:08 PM: INFO: P/L On Bet = 98.94
+05/19/2023 03:23:09 PM: INFO: Wallet Amount After Bet Place = 24553
+05/19/2023 03:23:09 PM: INFO: Exposure After Bet Place = 1903
+05/19/2023 03:23:13 PM: INFO: Below Details From open Bet 'Report'
+05/19/2023 03:23:13 PM: INFO: Bet Place Team Name = Delhi Capitals 
+05/19/2023 03:23:13 PM: INFO: Bet Odds = 1.97
+05/19/2023 03:23:13 PM: INFO: Bet Stake Amount = 100.0
+05/19/2023 03:23:13 PM: INFO: P/L On Bet = 97.0
+05/19/2023 03:23:13 PM: INFO: Wallet Amount and Exposure Amount Not Updated After Bet Place
+05/19/2023 03:38:11 PM: INFO: Login Successful, login with kt11
+05/19/2023 03:38:25 PM: INFO: User Wallet amount before bet place = 24553
+05/19/2023 03:38:25 PM: INFO: User exposure amount before bet place = 1903
+05/19/2023 03:39:13 PM: INFO: Bet has been placed successfully Market Name is DELHI CAPITALS VS CHENNAI SUPER KINGS and message after bet place = Bet has been placed successfully. 
+05/19/2023 03:39:13 PM: INFO: Bet has been placed successfully
+05/19/2023 03:39:22 PM: INFO: Below Details From open Bet 'Dialog'
+05/19/2023 03:39:22 PM: INFO: Bet Place Team Name = Delhi Capitals 
+05/19/2023 03:39:22 PM: INFO: Bet Odds = 1.97
+05/19/2023 03:39:22 PM: INFO: Bet Stake Amount = 100.0
+05/19/2023 03:39:22 PM: INFO: P/L On Bet = 97.0
+05/19/2023 03:39:23 PM: INFO: Wallet Amount After Bet Place = 24457
+05/19/2023 03:39:23 PM: INFO: Exposure After Bet Place = 1999
+05/19/2023 03:39:29 PM: INFO: Below Details From open Bet 'Report'
+05/19/2023 03:39:29 PM: INFO: Bet Place Team Name = Delhi Capitals 
+05/19/2023 03:39:29 PM: INFO: Bet Odds = 1.97
+05/19/2023 03:39:29 PM: INFO: Bet Stake Amount = 100.0
+05/19/2023 03:39:29 PM: INFO: P/L On Bet = 97.0
+05/19/2023 03:39:29 PM: INFO: Wallet Amount and Exposure Amount Not Updated After Bet Place
+05/19/2023 03:40:18 PM: INFO: Login Successful, login with kt11
+05/19/2023 03:40:21 PM: INFO: User Wallet amount before bet place = 24457
+05/19/2023 03:40:21 PM: INFO: User exposure amount before bet place = 1999
+05/19/2023 03:40:45 PM: INFO: Bet has been placed successfully Market Name is PUNJAB KINGS VS RAJASTHAN ROYALS and message after bet place = Bet has been placed successfully. 
+05/19/2023 03:40:45 PM: INFO: Bet has been placed successfully
+05/19/2023 03:40:54 PM: INFO: Below Details From open Bet 'Dialog'
+05/19/2023 03:40:54 PM: INFO: Bet Place Team Name = The Bet
+05/19/2023 03:40:54 PM: INFO: Bet Odds = 57.0
+05/19/2023 03:40:54 PM: INFO: Bet Stake Amount = 100.0
+05/19/2023 03:40:54 PM: INFO: P/L On Bet = 100.0
+05/19/2023 03:40:55 PM: INFO: Wallet Amount After Bet Place = 24357
+05/19/2023 03:40:55 PM: INFO: Exposure After Bet Place = 2099
+05/19/2023 03:40:59 PM: INFO: Below Details From open Bet 'Report'
+05/19/2023 03:40:59 PM: INFO: Bet Place Team Name = Punjab Kings 
+05/19/2023 03:40:59 PM: INFO: Bet Odds = 1.97
+05/19/2023 03:40:59 PM: INFO: Bet Stake Amount = 100.0
+05/19/2023 03:40:59 PM: INFO: P/L On Bet = 97.0
+05/19/2023 03:40:59 PM: INFO: Test Passed Wallet amount and Exposure is updated after Bet place
+05/19/2023 03:41:55 PM: INFO: Login Successful, login with kt11
+05/19/2023 03:41:58 PM: INFO: User Wallet amount before bet place = 24357
+05/19/2023 03:41:58 PM: INFO: User exposure amount before bet place = 2099
+05/19/2023 03:42:48 PM: INFO: Bet has been placed successfully Market Name is DELHI CAPITALS VS CHENNAI SUPER KINGS and message after bet place = Bet has been placed successfully. 
+05/19/2023 03:42:48 PM: INFO: Bet has been placed successfully
+05/19/2023 03:42:57 PM: INFO: Below Details From open Bet 'Dialog'
+05/19/2023 03:42:57 PM: INFO: Bet Place Team Name = Delhi Capitals 
+05/19/2023 03:42:57 PM: INFO: Bet Odds = 1.97
+05/19/2023 03:42:57 PM: INFO: Bet Stake Amount = 100.0
+05/19/2023 03:42:57 PM: INFO: P/L On Bet = 97.0
+05/19/2023 03:42:58 PM: INFO: Wallet Amount After Bet Place = 24257
+05/19/2023 03:42:58 PM: INFO: Exposure After Bet Place = 2199
+05/19/2023 03:43:04 PM: INFO: Below Details From open Bet 'Report'
+05/19/2023 03:43:04 PM: INFO: Bet Place Team Name = Delhi Capitals 
+05/19/2023 03:43:04 PM: INFO: Bet Odds = 1.97
+05/19/2023 03:43:04 PM: INFO: Bet Stake Amount = 100.0
+05/19/2023 03:43:04 PM: INFO: P/L On Bet = 97.0
+05/19/2023 03:43:04 PM: INFO: Test Passed Wallet amount and Exposure is updated after Bet place
+05/19/2023 03:45:50 PM: INFO: Login Successful, login with kt11
+05/19/2023 03:46:05 PM: INFO: User Wallet amount before bet place = 24257
+05/19/2023 03:46:05 PM: INFO: User exposure amount before bet place = 2199
+05/19/2023 03:46:28 PM: INFO: Bet has been placed successfully Market Name is PUNJAB KINGS VS RAJASTHAN ROYALS and message after bet place = Bet has been placed successfully. 
+05/19/2023 03:46:28 PM: INFO: Bet has been placed successfully
+05/19/2023 03:46:42 PM: INFO: Below Details From open Bet 'Dialog'
+05/19/2023 03:46:42 PM: INFO: Bet Place Team Name = Punjab Kings 
+05/19/2023 03:46:42 PM: INFO: Bet Odds = 1.97
+05/19/2023 03:46:42 PM: INFO: Bet Stake Amount = 100.0
+05/19/2023 03:46:42 PM: INFO: P/L On Bet = 97.0
+05/19/2023 03:46:43 PM: INFO: Wallet Amount After Bet Place = 24157
+05/19/2023 03:46:43 PM: INFO: Exposure After Bet Place = 2299
+05/19/2023 03:46:48 PM: INFO: Below Details From open Bet 'Report'
+05/19/2023 03:46:48 PM: INFO: Bet Place Team Name = Punjab Kings 
+05/19/2023 03:46:48 PM: INFO: Bet Odds = 1.97
+05/19/2023 03:46:48 PM: INFO: Bet Stake Amount = 100.0
+05/19/2023 03:46:48 PM: INFO: P/L On Bet = 97.0
+05/19/2023 03:46:48 PM: INFO: Test Passed Wallet amount and Exposure is updated after Bet place
+05/19/2023 03:47:55 PM: INFO: Login Successful, login with kt11
+05/19/2023 03:48:00 PM: INFO: User Wallet amount before bet place = 24157
+05/19/2023 03:48:00 PM: INFO: User exposure amount before bet place = 2299
+05/19/2023 03:48:25 PM: INFO: Bet has been placed successfully Market Name is PUNJAB KINGS VS RAJASTHAN ROYALS and message after bet place = Bet has been placed successfully. 
+05/19/2023 03:48:25 PM: INFO: Bet has been placed successfully
+05/19/2023 03:48:34 PM: INFO: Below Details From open Bet 'Dialog'
+05/19/2023 03:48:34 PM: INFO: Bet Place Team Name = Punjab Kings 
+05/19/2023 03:48:34 PM: INFO: Bet Odds = 1.97
+05/19/2023 03:48:34 PM: INFO: Bet Stake Amount = 100.0
+05/19/2023 03:48:34 PM: INFO: P/L On Bet = 97.0
+05/19/2023 03:48:36 PM: INFO: Wallet Amount After Bet Place = 24057
+05/19/2023 03:48:36 PM: INFO: Exposure After Bet Place = 2399
+05/19/2023 03:48:41 PM: INFO: Below Details From open Bet 'Report'
+05/19/2023 03:48:41 PM: INFO: Bet Place Team Name = Punjab Kings 
+05/19/2023 03:48:41 PM: INFO: Bet Odds = 1.97
+05/19/2023 03:48:41 PM: INFO: Bet Stake Amount = 100.0
+05/19/2023 03:48:41 PM: INFO: P/L On Bet = 97.0
+05/19/2023 03:48:41 PM: INFO: Test Passed Wallet amount and Exposure is updated after Bet place

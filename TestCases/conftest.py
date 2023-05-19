@@ -2,16 +2,59 @@ import os
 from pathlib import Path
 import pytest
 from appium import webdriver
+# import undetected_chromedriver as uc
+from selenium import webdriver as uc
+from selenium.webdriver.chrome.options import Options
+from Utilities import xlutils
+from TestCases import hattrick
+import subprocess
+
+
+# global i
+
+@pytest.fixture(params=xlutils.read_app(columnname="Website URL"))
+def webappurl(request):
+    return request.param
+
+
 @pytest.fixture
-def setup():
-    global driver
+def downloadapp_setup():
+    chrome_options = Options()
+    chrome_options.add_experimental_option('prefs', {
+        'download.default_directory': r'E:\B2BApplication',
+        'download.prompt_for_download': False,
+        'download.directory_upgrade': True,
+        'safebrowsing.enabled': True})
+    driver = uc.Chrome(chrome_options=chrome_options)
+    driver.implicitly_wait(10)
+    yield driver
+    driver.quit()
+
+
+@pytest.fixture
+def setup(apppackagename):
+    package = []
+    name = getpackage()
+    file = getfilepath()
+    filepth = ""
+    for package_name, file_path in zip(name, file):
+        dct = {package_name: file_path}
+        package.append(dct)
+    for s in range(len(package)):
+        try:
+            filepth = package[s][apppackagename]
+            break
+        except Exception:
+            pass
+    # filepth = package[0][apppackagename]
     cap = {}
+    global driver
     cap["platformName"] = "Android"
     cap["appium:deviceName"] = "RZCT41GHXKR"  # Samsung
     # cap["appium:deviceName"] = "7916a41" # MI
-    cap["appium:appPackage"] = "com.subagent.run567"
-    cap["appium:appWaitActivity"] = "com.subagent.run567.common.intro.IntroActivity"
-    cap["appium:app"] = "C:\\Users\\KEY\\Downloads\\Run567_v2.apk"
+    cap["appium:appPackage"] = apppackagename  # "com.subagent.run567"
+    # cap["appium:appWaitActivity"] = "com.subagent.run567.common.intro.IntroActivity"
+    cap["appium:app"] = filepth  # "C:\\Users\\KEY\\Downloads\\Run567_v2.apk"
     cap["appium:ensureWebviewsHavePages"] = True
     cap["appium:nativeWebScreenshot"] = True
     cap["appium:newCommandTimeout"] = 3600
@@ -23,14 +66,41 @@ def setup():
     driver = webdriver.Remote("http://localhost:4723/wd/hub", cap)
     driver.implicitly_wait(10)
     yield driver
+    # package = driver.current_package
+    driver.remove_app(apppackagename)
     driver.quit()
-()
+
+
+lstt = []
+
+
+def getpackage():
+    sheet = xlutils.read_sheet("Application Package Name")
+    return sheet
+
+
+def getfilepath():
+    sheet = xlutils.read_sheet("File Path")
+    return sheet
+
+
+@pytest.fixture(params=xlutils.read_sheet(columnname="Application Package Name"))
+def apppackagename(request):
+    return request.param
+
+
+@pytest.fixture(params=xlutils.read_sheet(columnname="File Path"))
+def appfilepath(request):
+    return request.param
+
+
 def pytest_html_report_title(report):
     report.title = "Test Result Report"
 
 
 def get_project_root() -> Path:
     return Path(__file__).parent.parent
+
 
 @pytest.hookimpl(hookwrapper=True)
 def pytest_runtest_makereport(item, call):
@@ -40,6 +110,11 @@ def pytest_runtest_makereport(item, call):
     extra = getattr(report, "extra", [])
 
     if report.when == 'call':
+        try:
+            global driver
+            driver = hattrick.conftest_driver[0]
+        except:
+            pass
         xfail = hasattr(report, 'wasxfail')
         filepath = os.getcwd()
         if (report.skipped and xfail) or (report.failed and not xfail):
@@ -55,12 +130,13 @@ def pytest_runtest_makereport(item, call):
     report.extra = extra
     # driver.quit()
 
+
 def _capture_screenshot(name):
     driver.get_screenshot_as_file(name)
 
 
 def pytest_configure(config):
-    config._metadata["Project Name"] = "Mainproject"
+    config._metadata["Project Name"] = "Main project"
     config._metadata['Module Name'] = "Test Place Bet"
     config._metadata['Tester'] = "Rock"
     config._metadata['Browser'] = "Chrome"
